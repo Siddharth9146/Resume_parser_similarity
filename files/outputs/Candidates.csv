@@ -1,0 +1,8 @@
+JD 1,Phone No.,E-Mail ID,Candidate's Name,Skills
+0.030997739376103367,['(123) 456-7890'],['johndoe@gmail.com'],Anytown,"{'SQL', 'JavaScript', 'Python', 'Git'}"
+0.01774448917846853,['8982496360'],['awadheshjindal2004@gmail.com'],AwadheshJindal,"{'C++', 'C', 'Java', 'Python', 'Algorithms', 'algorithms', 'MySQL', 'HTML'}"
+0.015336494221669682,[],['pandeyanushka0415@gmail.com'],Anushka,"{'C++', 'Git', 'JAVA', 'CSS', 'Python', 'Node.js', 'Pandas', 'JavaScript', 'pandas', 'python', 'OpenCV', 'HTML', 'SQL'}"
+-1.8792217277953317e-16,['(555) 123-4567'],['michaeljohnson@gmail.com'],Anytown,"{'Tableau', 'SQL', 'R', 'Python'}"
+-2.014221578761377e-16,['(333) 456-7890'],['davidlee@gmail.com'],|,{'SQL'}
+-6.8656097133238504e-15,['(444) 789-0123'],['emilydavis@gmail.com'],Townsville,set()
+-9.078769401723478e-15,['(987) 654-3210'],['janesmith@gmail.com'],Jane,{'Analytics'}
